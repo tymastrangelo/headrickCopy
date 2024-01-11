@@ -1,0 +1,14 @@
+{
+  "resourceName": "aa3imgages",
+  "policyUUID": "85b87070",
+  "bucketName": "aagimages",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}

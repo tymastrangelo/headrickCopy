@@ -1,0 +1,13 @@
+/* Container holding the image and the text */
+.App .container {
+  position: relative;
+  text-align: center;
+  color: rgb(212, 60, 60);
+}
+
+/* Bottom left text */
+.bottom-left {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+}

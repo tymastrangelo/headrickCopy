@@ -1,0 +1,7 @@
+type Note @model @auth(rules: [ { allow: public } ] ){
+  id: ID!
+  name: String!
+  description: String
+  image: String
+  author: String
+}
